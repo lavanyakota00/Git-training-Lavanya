@@ -5,3 +5,7 @@
 
 
 This is a Demo Git Hub repository
+
+*****************************
+
+GIT HUB practices`
